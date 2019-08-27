@@ -1,0 +1,10 @@
+.users-block {
+  display: flex;
+  flex-wrap: wrap;
+}
+.user-block__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+}
